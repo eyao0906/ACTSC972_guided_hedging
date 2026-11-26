@@ -1,0 +1,18 @@
+{
+  "experiment": "volatility",
+  "volatility_levels": [
+    0.1,
+    0.15,
+    0.2,
+    0.25,
+    0.3
+  ],
+  "cost_levels": [
+    0.0,
+    0.0005,
+    0.001,
+    0.002
+  ],
+  "alternative_width": 16,
+  "alternative_depth": 2
+}

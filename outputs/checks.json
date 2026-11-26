@@ -1,0 +1,14 @@
+{
+  "zero_hedge": "passed",
+  "constant_holding": "passed",
+  "opening_and_liquidation": "passed",
+  "cash_ledger": "passed",
+  "causality": "passed",
+  "batch_size_one": "passed",
+  "policy_gradient_relative_errors": [
+    2.2503882779467688e-07,
+    2.251039576961489e-09,
+    2.948330468655058e-11
+  ],
+  "ES_value_and_gradients": "passed"
+}

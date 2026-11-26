@@ -1,0 +1,23 @@
+FOUR MINUTES, THREE SLIDES, THEN ONE SHORT QUESTION
+
+Slide 1 - Question and prediction (about 45 seconds)
+State the chosen experiment, baseline, changed parameter(s), and prediction.
+Say which quantities remain fixed and whether retraining is required.
+
+Slide 2 - Evidence (about 90 seconds)
+Show one clearly labelled figure and, if helpful, a compact table.
+State the test sample size and identify the strategies and benchmarks compared.
+Architecture option: include parameter counts, selected updates, and training time.
+Student-designed option: explain the chosen comparison and any additional training.
+
+Slide 3 - Interpretation and limits (about 105 seconds)
+Give the main finding, a possible explanation, and one limitation.
+Relate the result to costs, information, or the risk objective as appropriate.
+An inconclusive result is acceptable; do not claim more than one run establishes.
+
+Possible follow-up questions
+- Why does an early holding not depend on future prices?
+- What changes if previous holdings are detached from the computation graph?
+- Why is eta one scalar, and why is test ES recalculated from test losses?
+- What happens to turnover when only the charged cost rate changes?
+- Which evidence would be needed before claiming one architecture is better?
